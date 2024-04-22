@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/homeFragment"
+    android:icon="@drawable/home_svgrepo_com__1_"
+    android:title="Главная"/>
+<item
+    android:id="@+id/addFragment"
+    android:icon="@drawable/add_circle_svgrepo_com"
+    android:title="Добавить"/>
+<item
+    android:id="@+id/listFragment"
+    android:icon="@drawable/list_check_svgrepo_com"
+    android:title="Список"/>
+</menu>
